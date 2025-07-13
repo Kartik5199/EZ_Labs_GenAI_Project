@@ -1,6 +1,6 @@
 
 
-
+````markdown
 ## Smart Assistant for Research Summarization (RAG + Gemini Flash 2.0)
 
 This is a locally running intelligent assistant that summarizes research PDFs and allows interactive Q&A or challenge-style quizzes using **Retrieval-Augmented Generation (RAG)**. It integrates:
